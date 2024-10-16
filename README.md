@@ -49,6 +49,3 @@ CREATE TABLE student (
 );
 ```
 
----
-
-Let me know if you need any further adjustments!
