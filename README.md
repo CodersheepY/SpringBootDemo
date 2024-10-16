@@ -32,7 +32,6 @@ In a RESTful architecture, each URL represents a resource, so URLs should not co
 - **DELETE (DELETE)**: Remove a resource from the server.
 
 ---
-
 ### Creating Database Tables
 
 #### SQL Statement to Create a Database
