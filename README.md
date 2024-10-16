@@ -1,7 +1,5 @@
 # SpringBootDemo
 
-SpringBoot Demo
-
 ### Introduction to Spring Boot
 
 Spring Boot is an open-source framework based on the Spring framework, designed to simplify the initial setup and development process of Spring applications. By providing a convention-over-configuration approach, it minimizes the workload for developers, making Spring application development faster, easier, and more efficient.
