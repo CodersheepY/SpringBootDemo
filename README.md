@@ -12,7 +12,12 @@ Spring Boot is an open-source framework based on the Spring framework, designed 
 5. **Rich Ecosystem**: Due to the widespread use of Spring Boot and its strong ecosystem, developers can easily utilize various extensions and plugins, such as **Actuator** and **Spring Boot DevTools**, to improve development efficiency and application quality.
 
 ---
+### Demo Structure
+<p align="center">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/96da8b87-328b-4ad6-8dff-4a4c34ca6a55">
+</p>
 
+---
 ### REST API Specification
 
 #### Path
