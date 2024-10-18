@@ -50,4 +50,4 @@ CREATE TABLE student (
   age INT
 );
 ```
-
+---
